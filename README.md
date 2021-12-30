@@ -3,10 +3,10 @@
     <img src="img/CG.jpg" width="500"/>
 </center>
 <center class="half">
-    <img src="img/level_1.jpg" width="250"/> <img src="img/level_2.jpg" width="250"/> 
+    <img src="img/level_1.jpg" width="250"/><img src="img/level_2.jpg" width="250"/> 
 </center>
 <center class="half">
-    <img src="img/level_3.jpg" width="250"/> <img src="img/level_4.jpg" width="250"/> 
+    <img src="img/level_3.jpg" width="250"/><img src="img/level_4.jpg" width="250"/> 
 </center>
 
 # Summary
